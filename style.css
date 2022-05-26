@@ -94,6 +94,9 @@ button {
 }
 
 /* New Task */
+.section:first-child {
+  margin-top: 1em;
+}
 .section:first-child .section__header {
   display: block;
   margin: 0 0 20px;
